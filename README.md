@@ -23,7 +23,6 @@ Dev7studios Starter Theme is that it gives you a very minimal setup with just th
 * Bower dependencies will get installed to `assets/vendor`
 * Don't use the root `style.css` for CSS as it doesn't get enqueued. Use `assets/sass/style.scss` instead
 * Template parts (such as header and footer) are kept in the `parts` folder
-* Page templates go in the `templates` folder
 
 ## Credits
 
