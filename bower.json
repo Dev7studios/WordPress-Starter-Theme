@@ -1,0 +1,16 @@
+{
+  "name": "dev7studios-starter-theme",
+  "authors": [
+    "Gilbert Pellegrom <gilbert@dev7studios.com>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/vendor"
+  ],
+  "dependencies": {
+    "modernizr": "2.8.2",
+    "bootstrap": "3.2.0"
+  }
+}
