@@ -4,6 +4,7 @@ A minimal WordPress starter theme based on HTML5 Boilerplate & Bootstrap. A lot 
 themes already have a lot of stuff included that you might not want or need. The idea begind the
 Dev7studios Starter Theme is that it gives you a very minimal setup with just the right amount of HMTL.
 
+<img src="screenshot.png"/>
 * Uses very minimal [Bootstrap](http://getbootstrap.com) compatible HTML5
 * Use [Bower](http://bower.io) for install front end dependencies
 * Uses [Grunt](http://gruntjs.com) for a build script
